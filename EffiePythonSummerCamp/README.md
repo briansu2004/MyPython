@@ -23,3 +23,11 @@ pip install pgzero
 ### #2
 
 ![class2.png](class2.png)
+
+### #3
+
+![class3.png](class3.png)
+
+### #4
+
+![class4.png](class4.png)
