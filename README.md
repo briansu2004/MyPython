@@ -15,6 +15,8 @@ My Python
   - Split for training and testing
   - Used a few algorithms and chose the best model which has the best Area Under the ROC Curve.
 
+## Python Framework : Django vs Flask vs FastAPI
+
 ## Python unit test for CI/CD pipeline
 
 ### unittest - Unit testing framework
@@ -73,3 +75,27 @@ def inc(x):
 def test_answer():
     assert inc(3) == 5
 ```
+
+## VSCode extensions for Python
+
+Python (Microsoft)
+
+Python Preview
+
+Tabnine
+
+Python Docstring Generator
+
+Python Indent
+
+Python Snippets
+
+Better Comments
+
+Bracket Pair Colorizer 2
+
+Python Test Explorer for Visual Studio Code
+
+Python Type Hint
+
+Jupyter
