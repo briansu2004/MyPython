@@ -62,6 +62,8 @@ FastAPI provides OOTB swagger, i.e. http://127.0.0.1:8000/docs
 
 Django is a Python-based free and open-source web framework that follows the model–template–views architectural pattern. It is maintained by the Django Software Foundation, an independent organization established in the US as a 501 non-profit.
 
+Django has an OOTB admin module.
+
 ## Python unit test for CI/CD pipeline
 
 ### unittest - Unit testing framework
