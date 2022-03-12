@@ -58,6 +58,8 @@ Jinja is a web template engine for the Python programming language. It was creat
 
 Jinja2 is a full-featured template engine for Python. It has full unicode support, an optional integrated sandboxed execution environment, widely used and BSD licensed.
 
+FastAPI provides OOTB swagger, i.e. http://127.0.0.1:8000/docs
+
 ## Python unit test for CI/CD pipeline
 
 ### unittest - Unit testing framework

@@ -23,6 +23,12 @@ uvicorn app:app --reload
 http://localhost:8000
 ```
 
+Swagger
+
+```
+http://localhost:8000/docs
+```
+
 ### Output
 
 ```
@@ -43,3 +49,5 @@ INFO:     Application startup complete.
 ![](image/README/02.png)
 
 ![](image/README/03.png)
+
+![](image/README/fastapi_swagger.png)
