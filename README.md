@@ -17,6 +17,27 @@ My Python
 
 ## Python Framework : Django vs Flask vs FastAPI
 
+Keywords
+
+```
+Flask
+Flask-SQLAlchemy
+SQLite
+autopep8
+
+FastAPI
+
+Django
+```
+
+SQLAlchemy is an open-source SQL toolkit and object-relational mapper for the Python programming language released under the MIT License.
+
+Flask-SQLAlchemy is an extension for Flask that adds support for SQLAlchemy to your application.
+
+SQLite is a database engine, written in the C language. It is not a standalone app; rather, it is a library that software developers embed in their apps. As such, it belongs to the family of embedded databases.
+
+autopep8 automatically formats Python code to conform to the PEP 8 style guide.
+
 ## Python unit test for CI/CD pipeline
 
 ### unittest - Unit testing framework
