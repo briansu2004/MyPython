@@ -225,6 +225,27 @@ frozenset
 
 `from functools import reduce`
 
+```
+import json
+person = {"name": "Brian", "age": "30"}
+personJSON = json.dumps(person, indent=4, sort_keys=True)
+with open('person.json', 'w') as file:
+    json.dump(person, file, indent=4)
+person2 = json.loads(personJson)
+with open('person.json', 'r') as file:
+    person = json.load(file)
+```
+
+`import secrets`
+
+`sys.getsizeof(...)`
+
+generator yield
+
+`from multiprocessing import Process`
+
+`from Threading import thread`
+
 ## VSCode extensions for Python
 
 Python (Microsoft)
