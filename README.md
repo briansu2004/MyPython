@@ -242,9 +242,13 @@ with open('person.json', 'r') as file:
 
 generator yield
 
-`from multiprocessing import Process`
+`from multiprocessing import Process, Value, Array, Lock, Queue, Pool`
 
 `from Threading import thread`
+
+`from comntextlib import contextmanager`
+
+@contextmanager
 
 ## VSCode extensions for Python
 
