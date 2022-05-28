@@ -15,6 +15,31 @@ My Python
   - Split for training and testing
   - Used a few algorithms and chose the best model which has the best Area Under the ROC Curve.
 
+## Algorithmic Trading Using Python
+
+Quant Model 
+
+A Quant Model is an automated algorithm created and employed by professional investors in their attempt to capitalize on mispriced securities
+
+Quantitative Trading
+
+Quantitative trading is the process of designing and developing trading strategies based on mathematical and statistical analyses. It is an immensely sophisticated area of finance.
+
+Quandl API
+
+Nasdaq Data Link API
+
+Py dependencies
+
+```python
+numpy
+pandas
+requests
+xlsxwriter
+math
+```
+
+
 ## pep8 style guide
 
 https://peps.python.org/pep-0008/
