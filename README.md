@@ -17,7 +17,7 @@ My Python
 
 ## Algorithmic Trading Using Python
 
-Quant Model 
+Quant Model
 
 A Quant Model is an automated algorithm created and employed by professional investors in their attempt to capitalize on mispriced securities
 
