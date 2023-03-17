@@ -1,0 +1,34 @@
+{
+  "MyRequest": {
+    "aRequest": "191",
+    "aStatus": "S",
+    "cdGlueTable": "0FI_ACDOCA_10",
+    "dwerweCodntainer name": "0FI_ACDOCA_10",
+    "dwerweCeontainer path": "",
+    "dwerweDelimiter": "|",
+    "dwerweWrap values": "",
+    "dwerweExtended escaping": "",
+    "dwerweInclude header": "",
+    "dwerweAppend packages": "",
+    "dwerweCompress file": "",
+    "dwerweCDC Flag": "",
+    "dwerweExtractor": "ZGLUE_0FI_ACDOCA_10_P",
+    "dwerweUserName": "C42856",
+    "dwerweStartTime": "20230310213335.4223040",
+    "dwerweFinishTime": "20230310214422.4053520",
+    "dwerweLinesRead": "765483",
+    "dwerweLinesTransferred": "765483",
+    "dwerweJobName": "ZDVD_GLUEZGLUE_0FI_ACDOCA_10_P",
+    "dwerweJobCount": "14333300",
+    "dwerweDeltaType": "FULL",
+    "dwerweLoadType": "F",
+    "dwerweTruncate": "",
+    "dwerweFileType": "CSV",
+    "Data": [
+      "c_20230310213640_1.csv",
+      "c_20230310213902_2.csv",
+      "c_20230310214124_3.csv",
+      "c_20230310214330_4.csv"
+    ]
+  }
+}
