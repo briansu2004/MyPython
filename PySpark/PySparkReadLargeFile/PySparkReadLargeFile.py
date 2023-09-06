@@ -3,10 +3,13 @@ from pyspark.sql.functions import split, size
 
 try:
     ## Part 1
-
+    
     spark = SparkSession.builder \
         .appName("WordCount") \
         .getOrCreate()
+
+    spark.sparkContext.setLogLevel("ERROR")  # Adjust the log level as needed
+
 
     file_path = '/tmp/enwik9'
 
