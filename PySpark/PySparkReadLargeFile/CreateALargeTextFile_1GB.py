@@ -5,9 +5,12 @@ import random
 import string
 
 # Function to generate random words
+
+
 def generate_random_word(length):
     letters = string.ascii_lowercase
     return ''.join(random.choice(letters) for _ in range(length))
+
 
 # Specify the output file path
 output_file_path = '/tmp/large_text_file.txt'
