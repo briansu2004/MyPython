@@ -4,6 +4,26 @@ My Python
 
 ## My Python project (Data Science, Machine Learning, AI)
 
+- Worked as a Senior Cloud Platform Engineer to deliver multiple projects with Python, Java, Google Cloud, GitLab, Terraform, Bitbucket, Collibra, Menta, Airflow,
+
+  - Designed and created different types of data-driven apps in GCP Google Cloud, including NodeJS apps, Python apps, Java apps, Data Flow pipelines, Cloud Services, Pub/Sub messaging apps etc.
+  - Programmed Terraform to provision resources, manage role based access control (RBAC), and build multiple cloud deployment pipelines.
+  - Designed and implemented the GitLab CI/CD pipelines with Python and Shell scripts to ingest and load lots of reference data to BigQuery for different environments and archived in GCS buckets.
+
+- Created Full Stack REST APIs (backend) and VUE (front-end) apps to manage Dask Kubernetes Clusters and deployed to Azure
+
+  - Coded the functions to manage Dask Kubernetes Clusters with Go and Python.
+  - Monitored the Clusters with Kubectl and dashboard.
+  - Programmed REST APIs with Go.
+  - Built the UI with VUE and Vuetify.
+  - Containerized the backend API app and UI app with Docker, managed with Azure ACR repository, deployed to Azure AKS and then exposed the API to a public IP.
+
+- Built a knowledge-based ontology graph database application for a federal client
+
+  - Converted relational data model to Graph data model and imported to Neo4j.
+  - Used Python NLP libraries and Azure Cognitive Services APIs to analyse data, extracted entities, key phrases, and categories, then do sentiment analysis with data science algorithms in Jupyter Notebook.
+  - Visualized the ontology knowledge graphs with Neo4j Bloom and search phrases.
+
 - Created a Python data science POC for a large supermarket chain client
 
   - Scraped neighborhood data from Wiki, acquired latitudes and longitudes data from the Geocoder, and retrieved location & venues data with Foursquare Places API.
