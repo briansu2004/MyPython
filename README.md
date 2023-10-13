@@ -2,13 +2,17 @@
 
 My Python
 
-## My Python project (Data Science, Machine Learning, AI)
+## My published Udemy courses for Python
 
-- Worked as a Senior Cloud Platform Engineer to deliver multiple projects with Python, Java, Google Cloud, GitLab, Terraform, Bitbucket, Collibra, Menta, Airflow,
+- Efficient Kubernetes Management with Python and Go
 
-  - Designed and created different types of data-driven apps in GCP Google Cloud, including NodeJS apps, Python apps, Java apps, Data Flow pipelines, Cloud Services, Pub/Sub messaging apps etc.
-  - Programmed Terraform to provision resources, manage role based access control (RBAC), and build multiple cloud deployment pipelines.
-  - Designed and implemented the GitLab CI/CD pipelines with Python and Shell scripts to ingest and load lots of reference data to BigQuery for different environments and archived in GCS buckets.
+  https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go
+
+## My Python projects
+
+REST APIs, Cloud, Kubernetes, NLP, Data Science, Machine Learning, AI etc.
+
+...
 
 - Created Full Stack REST APIs (backend) and VUE (front-end) apps to manage Dask Kubernetes Clusters and deployed to Azure
 
@@ -17,6 +21,22 @@ My Python
   - Programmed REST APIs with Go.
   - Built the UI with VUE and Vuetify.
   - Containerized the backend API app and UI app with Docker, managed with Azure ACR repository, deployed to Azure AKS and then exposed the API to a public IP.
+
+- Worked as a Senior Cloud Platform Engineer to deliver multiple projects with Python, Java, Google Cloud, GitLab, Terraform, Bitbucket, Collibra, Menta, Airflow,
+
+  - Designed and created different types of data-driven apps in GCP Google Cloud, including NodeJS apps, Python apps, Java apps, Data Flow pipelines, Cloud Services, Pub/Sub messaging apps etc.
+  - Programmed Terraform to provision resources, manage role based access control (RBAC), and build multiple cloud deployment pipelines.
+  - Designed and implemented the GitLab CI/CD pipelines with Python and Shell scripts to ingest and load lots of reference data to BigQuery for different environments and archived in GCS buckets.
+
+- Created a Full Stack web app with Java and Angular for a large telecommunication client
+
+  - Designed, created and updated the Swagger file for the REST APIs.
+  - Implement the API endpoints with Python FastAPI framework (uvicorn ASGI, pydantic, pytest, SQLAlchemy etc.)
+  - Managed the Python libraries and packages with pip and requirement file.
+  - Created the test cases and automated the unit tests and integration tests.
+  - Containerize REST APIs with Docker and uploaded to the artifact repository.
+  - Deployed to OpenShift and GCP with Jenkins pipeline.
+  - Created front-end app with React, Material UI, and Bootstrap.
 
 - Built a knowledge-based ontology graph database application for a federal client
 
@@ -35,14 +55,6 @@ My Python
   - Split for training and testing
   - Used a few algorithms and chose the best model which has the best Area Under the ROC Curve.
 
-## pep8
-
-[pep8](pep8.md)
-
-## Pylint
-
-[Pylint](pylint.md)
-
 ## Python Frameworks for APIs: Django vs Flask vs FastAPI
 
 [Python Frameworks for APIs](PyAPIFrameworks.md)
@@ -50,6 +62,14 @@ My Python
 ## Python test
 
 [Python test](PythonTest.md)
+
+## pep8
+
+[pep8](pep8.md)
+
+## Pylint
+
+[Pylint](Pylint.md)
 
 ## Tricks
 
