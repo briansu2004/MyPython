@@ -31,7 +31,7 @@ REST APIs, Cloud, Kubernetes, NLP, Data Science, Machine Learning, AI etc.
 - Created a Full Stack web app with Java and Angular for a large telecommunication client
 
   - Designed, created and updated the Swagger file for the REST APIs.
-  - Implement the API endpoints with Python FastAPI framework (uvicorn ASGI, pydantic, pytest, SQLAlchemy etc.)
+  - Implement the API endpoints with Python FastAPI framework (uvicorn ASGI, pydantic, pytest, SQLAlchemy, pymongo etc.)
   - Managed the Python libraries and packages with pip and requirement file.
   - Created the test cases and automated the unit tests and integration tests.
   - Containerize REST APIs with Docker and uploaded to the artifact repository.
@@ -58,6 +58,8 @@ REST APIs, Cloud, Kubernetes, NLP, Data Science, Machine Learning, AI etc.
 ## Python Frameworks for APIs: Django vs Flask vs FastAPI
 
 [Python Frameworks for APIs](PyAPIFrameworks.md)
+
+[FastAPI](FastAPI.md)
 
 ## Python test
 
