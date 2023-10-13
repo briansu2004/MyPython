@@ -152,7 +152,7 @@ cython_debug/
 #.idea/
 
 # venv
-myenv/
+myenv/Scripts/
 
 # vscode
 .vscode/
