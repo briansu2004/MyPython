@@ -1,5 +1,8 @@
 # pep8
 
+- [pep8 style guide](#pep8-style-guide)
+  - [How to enforce PEP8 in VScode?](#how-to-enforce-pep8-in-vscode)
+
 ## pep8 style guide
 
 https://peps.python.org/pep-0008/

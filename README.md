@@ -1,8 +1,21 @@
-# MyPython
+# My Python
 
-My Python
+- [My published Udemy courses for Python](#my-published-udemy-courses-for-python)
+- [My Python projects](#my-python-projects)
+- [Python Frameworks for APIs: Django vs Flask vs FastAPI](#python-frameworks-for-apis-django-vs-flask-vs-fastapi)
+- [Python test](#python-test)
+- [pep8](#pep8)
+- [Pylint](#pylint)
+- [Tricks](#tricks)
+- [VSCode extensions for Python](#vscode-extensions-for-python)
+- [Tips](#tips)
+- [Algorithmic Trading Using Python](#algorithmic-trading-using-python)
 
 ## My published Udemy courses for Python
+
+- Perfect Python Job Interviews
+
+  https://www.udemy.com/course/perfect-python
 
 - Efficient Kubernetes Management with Python and Go
 
